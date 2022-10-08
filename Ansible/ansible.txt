@@ -1,4 +1,4 @@
-ansible installation
+ansible installation (on master )
 
 sudo apt-get update
 sudo apt install software-properties-common
